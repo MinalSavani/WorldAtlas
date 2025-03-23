@@ -1,0 +1,52 @@
+
+[{
+    "id": 1,
+    "countryName": "India",
+    "capital": "Delhi",
+    "population": "Approximately 1.44 billion (as of 2024)",
+    "interestingFact": "India is the world's largest democracy and is home to the world's oldest, continuously inhabited city, Varanasi."
+},
+
+{
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "Approximately 333 million (as of 2024)",
+    "interestingFact": "The U.S. has the world's largest economy and is home to the Grand Canyon, one of the Seven Natural Wonders of the World."
+},
+{
+    "id": 3,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "Approximately 1.41 billion (as of 2024)",
+    "interestingFact": "China is the world's most populous country and has the longest man-made structure, the Great Wall of China, which stretches over 13,000 miles."
+},
+{
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "Approximately 216 million (as of 2024)",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world’s oxygen and is the largest rainforest on Earth."
+},
+{
+    "id": 5,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "Approximately 144 million (as of 2024)",
+    "interestingFact": "Russia is the largest country in the world by land area, covering more than 11% of Earth's landmass."
+},
+{
+    "id": 6,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "Approximately 123 million (as of 2024)",
+    "interestingFact": "Japan is home to the world's busiest train station, Shinjuku Station, which serves around 3.5 million passengers daily."
+},
+{
+    "id": 7,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "Approximately 26 million (as of 2024)",
+    "interestingFact": "Australia is the only country that is also a continent and has more kangaroos than people."
+}
+]
